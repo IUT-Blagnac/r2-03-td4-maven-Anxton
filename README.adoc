@@ -1,4 +1,4 @@
-= XU_ANTON
+= XU ANTON 1B
 == Compilation 
 ....
 mvn compile
