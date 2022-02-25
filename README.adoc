@@ -1,4 +1,10 @@
-= XU ANTON 1B
+= XU_ANTON
+Anton XU <anton.xu@etu.univ-tlse2.fr>
+1.0, February 25, 2022: AsciiDoc article template
+
+Preambule :
+Quali Dev
+
 == Compilation 
 ....
 mvn compile
