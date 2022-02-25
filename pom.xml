@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+              <mainClass>test/MainSchtroumpf</mainClass>
             </manifest>
           </archive>
         </configuration>
